@@ -1,0 +1,6 @@
+mediapipe
+opencv-python
+pygame
+pyttsx3
+numpy
+tk
